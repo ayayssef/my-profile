@@ -1,0 +1,37 @@
+body {
+
+    background-color:rgb(188, 181, 192);
+    color:white;
+    font-family: Courier;
+    
+    }
+    
+    h1 {
+        color: black;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 60px;
+    }
+    
+    h3{
+        color:black;
+    }
+    
+    a{
+        text-decoration: none;
+        color: black;
+    }
+    
+    
+     
+    .card-white {
+        background-color:rgb(131, 109, 131);
+        padding: 40px;
+        box-shadow: 0px 0px 30px ;
+        border-radius: 20px;
+        margin: 20px 0px;
+        text-align: center;
+    }
+    
+   .img-circle{
+    border-radius: 50%;
+}
